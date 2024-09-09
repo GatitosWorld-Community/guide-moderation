@@ -1,13 +1,15 @@
 ---
 label: Inicio
 layout: page
-order: 1
+order: 999
 ---
-# Guía de moderación de canales de voz
+# Guía para moderadores
 Para vosotros, moderadores.
 
-!!!warning Si no eres parte del equipo de moderación de Gatitos World:
-Ten en cuenta que lo aquí expreso no es parte de la [guía oficial de moderación](https://mateo.ltd/moderacion/). El equipo puede decidir sobre si tomar o no estas recomendaciones a la hora de moderar.<br> Que un moderador no siga esta guía no quiere decir que modere mal.
+!!!warning Si no eres parte del equipo de moderación de Gatitos World
+Ten en cuenta que esta es una guía, no una normativa ni un manual. Éstas son las actuaciones ideales, no obstante, pueden existir casos en los que la administración considere necesario aplicar un nuevo procedimiento, o que por las circunstancias anormales de la situación el equipo aplique algún cambio.
+
+En todo momento la decisión recaerá sobre el moderador responsable y como usuario podrá debatir su opinión a cerca de la actuación en un ticket.
 !!!
 
 [!button variant="light" text="Introducción" icon="info"](./introducción/introducción.md) [!button variant="primary" text="Procedimiento" icon="mortar-board"](./procedimiento//procedimiento.md)
