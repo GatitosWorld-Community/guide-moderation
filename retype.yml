@@ -1,0 +1,9 @@
+input: .
+output: .retype
+url: 
+branding:
+  title: Mod Guide
+  label: v1.0.5
+  logo: 
+footer:
+  copyright: "&copy; Copyright {{ year }}. Todos los derechos reservados."
