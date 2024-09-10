@@ -1,3 +1,8 @@
+---
+icon: tools
+order: 800
+---
+
 # Herramientas para moderadores
 
 ¡Hola moderador/a!

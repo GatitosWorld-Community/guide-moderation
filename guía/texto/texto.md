@@ -1,5 +1,7 @@
 ---
+icon: hash
 label: Texto
+order: 900
 ---
 
 # Cómo moderar canales de texto
@@ -15,10 +17,9 @@ Todo lo que un moderador puede necesitar para atender los canales de texto.
 ### Cómo entrar al canal
 Al entrar en el canal de texto, a no ser que se trate de una urgencia y debas atender un tema rápido, intenta saludar e iniciar un nuevo tema de conversación con los usuarios presentes. Por lo general, la presencia de un moderador reduce el número de infracciones y demuestra que somos personas y no sólo estamos en el chat para advertir.
 
-Un buen ejemplo de mensaje de advertencia sería cualquiera de los siguientes:
-*@gacarbla por favor evita el envío de líricas en el servidor.*
-*@.entitynotfounded por favor mantengamos un vocabulario apropiado en el canal, si desea una explicación más detallada puede abrir un ticket y se lo explicaremos con mucho gusto.*
-
+!!!secondary  Ejemplo de mensaje de advertencia
+@gacarbla por favor evita el envío de líricas en el servidor.<br>
+!!!
 
 <br>
 
