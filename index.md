@@ -12,4 +12,4 @@ Ten en cuenta que esta es una guía, no una normativa ni un manual. Éstas son l
 En todo momento la decisión recaerá sobre el moderador responsable y como usuario podrá debatir su opinión a cerca de la actuación en un ticket.
 !!!
 
-[!button variant="light" text="Introducción" icon="info"](./introducción/introducción.md) [!button variant="primary" text="Procedimiento" icon="mortar-board"](./procedimiento//procedimiento.md)
+[!button variant="light" text="Introducción" icon="info"](./introducción) [!button variant="primary" text="Reglas" icon="mortar-board"](./reglas)

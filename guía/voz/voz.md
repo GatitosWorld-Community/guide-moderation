@@ -10,7 +10,7 @@ order: 800
 ¿No sabes qué hacer en una situación? Se acabó ese problema.
 
 !!!light Seguimos trabajando en esto
-Actualmente ninguno de estos procedimientos tiene una página asignada. La guía está incompleta.
+Los últimos artículos no están terminados.
 !!!
 
 ### A

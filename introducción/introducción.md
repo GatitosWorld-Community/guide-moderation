@@ -1,13 +1,15 @@
 ---
 icon: info
-order: 900
+order: 990
 ---
 # Introducción
 
 ### ¡Hola!
 
-Muchos ya me conocerán, me llamo Gabs y soy (o era en el momento en que este documento es escrito) moderador del servidor de Gatitos World.
+Bienvenidos a la guía de moderación de GatitosWorld.<br>
+En éste espacio encontrarás todas las respuestas a cualquier procedimiento. Seguimos trabajando día a día para hacer de esta guía, el arma definitiva para cualquier moderador, independientemente de su antiguedad o experiencia.
 
-Conozco las dificultades de moderar los canales de voz, lo complicado que es mantener una compostura autoritaria que no termine en usuarios quejándose de abuso de poder, lo complicado que es entender que a veces las normas no deberían seguirse al pié de la letra en los canales de voz, y otras muchas cosas.
+<br><br><br>
 
-Por eso, aquí mismo he ideado una pequeña documentación **EXTRAOFICIAL** de instrucciones y recomendaciones a la hora de moderar los canales de voz.
+<h5>Contacto</h5>
+En el hipotético caso de que fuese necesario contactar con el encargado de mantenimiento de esta guía, sea por un error u otros, puede hacerlo a través del e-mail <a href="mailto:contact@mod.gatitosworld.com">contact@mod.gatitosworld.com</a>
