@@ -21,7 +21,7 @@ Comportamientos que, aunque pueden ser molestos o inapropiados, no constituyen u
 - Uso de un tono sarcástico que moleste a otro usuario, pero sin insultos directos.
 - Ingresar al canal donde este dicho usuario a molestarle.
 ==- Procedimiento
-- Advertir al usuario que detenga el comportamiento, en caso de continuar se sanciona con mute de vc.
+- Advertir al usuario que detenga el comportamiento, en caso de continuar se sanciona con la correspondiente restricción de acceso.
 ==-
 
 <br>

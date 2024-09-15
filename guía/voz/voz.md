@@ -48,18 +48,18 @@ Algunos usuarios están utilizando el bug de FakeDeafen, que hace que aparezca q
 ==- Causar interrupciones constantes
 Algunos usuarios en los canales de voz están causando interrupciones constantes en las conversaciones de otros. Es necesario gestionar esta conducta. Comenzaremos solicitando a través de un diálogo que respeten los turnos de palabra. Sin embargo, si estas peticiones no tienen el efecto deseado, procederemos con las advertencias correspondientes (1 o 2), seguidas de una sanción en forma de mute.
 
-[!button variant="primary" text="Más información"]()
+[!button variant="primary" text="Más información"](./p/causar_interrupciones_constantes.md)
 ==- Comportamiento tóxico
 Cuando un usuario mantiene un comportamiento activamente tóxico, como difamar a otros usuarios, el equipo debe intervenir para detener esta conducta a tiempo y fomentar un entorno lo más amigable posible en el voicechat.
 
-[!button variant="primary" text="Más información"]()
+[!button variant="primary" text="Más información"](./p/comportamiento_tóxico.md)
 ==-
 
 ### D
 ==- Demasiados usuarios en un mismo canal
 De vez en cuando, en los canales personalizados nos encontramos con un exceso de usuarios. Si esto sucede, entraremos al canal y pediremos que se reduzca el límite de usuarios a un número que pueda ser moderado (generalmente entre 10 y 20, según lo determine el moderador). Les informaremos que si no se reduce el número actual de usuarios en el canal en un plazo de X minutos, determinado por el moderador, el canal será eliminado.
 
-[!button variant="primary" text="Más información"]()
+[!button variant="primary" text="Más información"](./p/demasiados_usuarios_en_un_mismo_canal.md)
 ==- Descontrol en el canal
 No es infrecuente que en canales personalizados con más de 7 usuarios se produzca cierto nivel de desorden, y el propietario del canal, al no poder manejarlo, solicite ayuda al equipo de moderación. Si el número de usuarios supera los 10, el primer paso será reducirlos hasta restablecer un entorno controlado o mantenerse por debajo de 10 (sin contar al moderador). Si el número de usuarios no supera los 10 y el descontrol persiste en el canal, será necesario tomar las medidas adecuadas para recuperar el control, comenzando con advertencias y aplicando sanciones si es necesario. En el caso de que esta situación ocurra en un canal público, se omitirá el paso de reducción de usuarios.
 
