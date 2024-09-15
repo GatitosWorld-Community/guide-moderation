@@ -86,7 +86,7 @@ Cuando un usuario utiliza múltiples cuentas para eludir una sanción o vuelve a
 ==- Faltas de respeto
 En ocasiones, un usuario puede faltarle el respeto a otro por diversos motivos. Como moderadores, es nuestra responsabilidad poner fin a este tipo de comportamientos y asegurar que todos los usuarios puedan permanecer en el servidor sin temor a ser criticados, acusados o tratados con falta de respeto.
 
-[!button variant="primary" text="Más información"]()
+[!button variant="primary" text="Más información"](./p/faltas_de_respeto.md)
 ==-
 
 ### H

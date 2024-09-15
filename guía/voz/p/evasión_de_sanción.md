@@ -15,7 +15,7 @@ Estos casos son simples, actuaremos con una sanción tipo ban contundente, inmed
 +++ Restricción de VC
 ```
 u!ban <id> **INCUMPLIEMIENTO DE LAS TOS**
-Reingreso al servidor para la evasión de una sanción tipo `RESTRICTIVA`
+Ingreso al servidor por medio de multicuentas para la evasión de una sanción tipo `RESTRICTIVA`
 
 > ¿Cree que su sanción es injusta?
 > [Haga click aquí para apelar](https://discord.gg/8X3GKQsxJh)

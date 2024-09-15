@@ -6,7 +6,6 @@ authors:
     avatar: ../../../profiles/gacarbla.jpg
 visibility: hidden
 ---
-[!button size="xs" variant="warning" text="No revisado" icon="alert" corners="pill"](../../../info/contenido_sin_revisar/contenido_sin_revisar.md)
 
 # Faltas de respeto
 La falta de respeto en los canales de voz es una infracción que no toleramos en nuestro servidor. Para garantizar un ambiente amigable y respetuoso para todos los usuarios, aplicaremos un enfoque directo y eficaz al abordar estas situaciones.
@@ -18,19 +17,16 @@ Ante un comportamiento irrespetuoso, seguiremos un protocolo que busca resolver 
 
 1. **Advertencia:** Emitiremos una advertencia directa al usuario, resaltando la importancia de mantener un tono respetuoso en los canales de voz.
 
-2. **Sanción Mute o Ban:** Si el usuario continúa con su actitud irrespetuosa a pesar de la advertencia, se procederá a aplicar una sanción tipo mute.
+2. **Sanción Restrictiva:** Si el usuario continúa con su actitud irrespetuosa a pesar de la advertencia, se procederá a aplicar una sanción tipo restrictiva.
 
 ## Formato de sanción
 +++ Ejemplo
 ```
-u!warn <id> **MUTE DE <tiempo> HORAS DE VC**
-Persistentes faltas de respeto pese a la advertencia previa del equipo de moderadores.
-
-> Podrá solicitar la retirada de su mute en <#822611489370144808> una vez el tiempo de su sanción culmine.
+/restrict-voice user:<id> duration:<duration> reason:Persistentes faltas de respeto pese a la advertencia previa del equipo de moderadores.
 ```
 +++
 
 <br><br><br>
 ** **
 **HISTORIAL DE CAMBIOS**<br><br> 
-`2023-08-29` [!button size="xs" variant="primary" text="Redactado" icon="pencil"]
+`2024-09-15` [!button size="xs" variant="primary" text="Redactado" icon="pencil"]
