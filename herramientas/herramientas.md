@@ -28,4 +28,9 @@ Utilizamos a UnbelievaBoat, un bot de Discord que nos brinda todas las funciones
 - [:icon-link-external: UnbelievaBoat Bot](https://unbelievaboat.com)
 - [:icon-link-external: Sapphire Bot](https://sapph.xyz)
 
+<br><br>
+
 ## Verificación de links maliciosos
+
+- [:icon-link-external: VirusTotal URL](https://www.virustotal.com/gui/home/url)
+- [:icon-link-external: Radar Cloudflare](https://radar.cloudflare.com/scan)
