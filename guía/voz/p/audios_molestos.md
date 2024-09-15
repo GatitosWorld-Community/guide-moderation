@@ -25,7 +25,8 @@ Infórmate mejor en el siguiente artículo:
 
 +++ 1 advertencia
 ```
-/restrict-voice user:<id> duration:<duration> reason:Reproducción de audios altamente molestos en los canales de voz pese a la advertencia previa.```
+/restrict-voice user:<id> duration:<duration> reason:Reproducción de audios altamente molestos en los canales de voz pese a la advertencia previa.
+```
 +++ 2 o más advertencias
 ```
 /restrinct-voice user:<id> duration:<duration> reason:Reproducción de audios molestos en los canales de voz pese a las advertencias previas.

@@ -104,18 +104,18 @@ Es recurrente el humor negro en una comunidad digital, pero también muy importa
 ==- Ignorancia hacia las indicaciones de un moderador
 Algunos usuarios muestran plena ignorancia hacia las indicaciones de los moderadores, sea persistiendo en un comportamiento contrario al reglamento o simplemente no acatando las recomendaciones. Te exponemos todo lo que debes saber de cómo actuar en estos casos.
 
-[!button variant="dark" text="Más información"]()
+[!button variant="dark" text="Más información"](./p/ignorancia_hacia_las_indicaciones_de_un_moderador.md)
 ==- Inicio de eventos no autoriazdos
 Ocasionalmente algunos usuarios deciden organizar eventos en los canales de voz personalizada. Deben tener presente que estos eventos corren a su cargo y no al del equipo de moderadores o el servidor siquiera. Te enseñamos cómo actuar en estos casos.
 
-[!button variant="dark" text="Más información"]()
+[!button variant="dark" text="Más información"](./p/inicio_de_eventos_no_autorizados.md)
 ==-
 
 ### M
 ==- Menor de 13 años
 Algunos usuarios no conocen o no cumplen las [ToS de Discord](https://discord.com/terms) y acceden al servidor pese a no cumplir con la edad mínima requerida. Te mostramos cómo identificarlos y cómo proceder en estos casos.
 
-[!button variant="primary" text="Más información"]()
+[!button variant="primary" text="Más información"](./p/menor_de_13_años.md)
 ==- Modificación ilegal de la APP de escritorio
 Existen complementos como BetterDiscord que modifican el aspecto y/o funcionalidades de la aplicación de escritorio de Discord. ¿Debemos hacer algo en estos casos? ¿El qué?
 
