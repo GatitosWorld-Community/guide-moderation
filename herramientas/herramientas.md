@@ -27,3 +27,5 @@ Utilizamos a UnbelievaBoat, un bot de Discord que nos brinda todas las funciones
 
 - [:icon-link-external: UnbelievaBoat Bot](https://unbelievaboat.com)
 - [:icon-link-external: Sapphire Bot](https://sapph.xyz)
+
+## Verificación de links maliciosos

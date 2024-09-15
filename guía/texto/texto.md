@@ -46,14 +46,22 @@ En ciertas situaciones un usuario o grupo de usuarios podría estar acosando a o
 
 [!button text="Ver el procedimiento completo" variant="contrast"](./p/acoso.md)
 ==- Agresión verbal
+
+[!button text="Ver el procedimiento completo" variant="contrast"](./p/agresion_verbal.md)
 ==- Amenazas
+
+[!button text="Ver el procedimiento completo" variant="contrast"](./p/amenazas.md)
 ==- Ascii arts
+
+[!button text="Ver el procedimiento completo" variant="contrast"](./p/ascii.md)
 ==- 
 
 <br><br>
 
 ### C
 ==- Continuar cadenas
+
+[!button text="Ver el procedimiento completo" variant="contrast"](./p/cadenas.md)
 ==- 
 
 <br><br>
@@ -98,7 +106,11 @@ En ciertas situaciones un usuario o grupo de usuarios podría estar acosando a o
 
 ### L
 ==- Links
+
+[!button text="Ver el procedimiento completo" variant="contrast"](./p/links.md)
 ==- Links maliciosos
+
+[!button text="Ver el procedimiento completo" variant="contrast"](./p/links.md)
 ==- 
 
 <br><br>
@@ -119,6 +131,8 @@ En ciertas situaciones un usuario o grupo de usuarios podría estar acosando a o
 ==- Saturación de emojis
 ==- Saturación de menciones
 ==- Spam o promoción
+
+[!button text="Ver el procedimiento completo" variant="contrast"](./p/spam.md)
 ==- Stickers inapropiados
 ==- Suplantación de identidad
 ==- 
