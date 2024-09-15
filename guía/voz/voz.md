@@ -93,11 +93,11 @@ En ocasiones, un usuario puede faltarle el respeto a otro por diversos motivos. 
 ==- Huída de los moderadores
 Algunos usuarios huyen de los moderadores porque les dan miedo, porque les caen mal o simplemente porque quieren poder cometer actos contrarios a las normas sin poder ser supervisados. Te contamos un poco más a cerca de cómo puedes pillar a estos usuarios en los canales de voz.
 
-[!button variant="primary" text="Más información"]()
+[!button variant="primary" text="Más información"](./p/huída_de_los_moderadores.md)
 ==- Humor negro
 Es recurrente el humor negro en una comunidad digital, pero también muy importante saber los límites para éste y cómo actuar si nos encontramos con ciertos chistes que rozan la falta de respeto, aunque teniendo siempre en cuenta que evitaremos en la medida de lo posible llevar a cabo advertencias o sanciones, pues los usuarios estarán intentando pasar el rato, no intentan molestar.
 
-[!button variant="primary" text="Más información"]()
+[!button variant="primary" text="Más información"](./p/humor_negro.md)
 ==-
 
 ### I

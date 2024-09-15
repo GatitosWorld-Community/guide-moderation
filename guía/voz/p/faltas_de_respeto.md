@@ -20,6 +20,14 @@ Ante un comportamiento irrespetuoso, seguiremos un protocolo que busca resolver 
 2. **Sanción Restrictiva:** Si el usuario continúa con su actitud irrespetuosa a pesar de la advertencia, se procederá a aplicar una sanción tipo restrictiva.
 
 ## Formato de sanción
+
+!!!info Duración de la restricción
+Al aplicar una restricción recuerda la cadena de duración.<br>
+La duración será de 12 horas, 24 horas, 72 horas, 1 semana o 2 semanas, en función del número de sanciones previas y la gravedad de los incidentes actuales.<br>
+Infórmate mejor en el siguiente artículo:
+[!ref Cómo privar de acceso](./privar_de_acceso.md)
+!!!
+
 +++ Ejemplo
 ```
 /restrict-voice user:<id> duration:<duration> reason:Persistentes faltas de respeto pese a la advertencia previa del equipo de moderadores.
