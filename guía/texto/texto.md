@@ -42,6 +42,9 @@ Redacta un mensaje mencionando al usuario o usuarios a los que advertir en cuest
 
 ### A
 ==- Acoso
+En ciertas situaciones un usuario o grupo de usuarios podría estar acosando a otros.<br>Ésto debe ser tratado con máxima urgencia y prioridad.
+
+[!button text="Ver el procedimiento completo" variant="contrast"](./p/acoso.md)
 ==- Agresión verbal
 ==- Amenazas
 ==- Ascii arts
