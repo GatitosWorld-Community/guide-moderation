@@ -3,10 +3,8 @@ label: Evasión de reject
 authors:
   - name: gacarbla
     link: https://discord.com/users/643575943289634836
-    avatar: ../../../profiles/gacarbla.jpg
-visibility: hidden
+    avatar: /assets/pfps/gacarbla.jpg
 ---
-[!button size="xs" variant="warning" text="No revisado" icon="alert" corners="pill"](../../../info/contenido_sin_revisar/contenido_sin_revisar.md)
 
 # Evasión de reject
 Denominamos reject al veto de acceso a un canal de voz personalizada, y ciertos usuarios lo evaden por el mismo sistema que la evasión de sanción tipo mute (El reingreso al servidor).
@@ -30,4 +28,4 @@ Usted ha abandonado el servidor y reingresado al mismo para evadir así el veto 
 <br><br><br>
 ** **
 **HISTORIAL DE CAMBIOS**<br><br> 
-`2023-08-28` [!button size="xs" variant="primary" text="Redactado" icon="pencil"]
+`2024-09-15` [!button size="xs" variant="primary" text="Redactado" icon="pencil"]

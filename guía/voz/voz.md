@@ -63,11 +63,11 @@ De vez en cuando, en los canales personalizados nos encontramos con un exceso de
 ==- Descontrol en el canal
 No es infrecuente que en canales personalizados con más de 7 usuarios se produzca cierto nivel de desorden, y el propietario del canal, al no poder manejarlo, solicite ayuda al equipo de moderación. Si el número de usuarios supera los 10, el primer paso será reducirlos hasta restablecer un entorno controlado o mantenerse por debajo de 10 (sin contar al moderador). Si el número de usuarios no supera los 10 y el descontrol persiste en el canal, será necesario tomar las medidas adecuadas para recuperar el control, comenzando con advertencias y aplicando sanciones si es necesario. En el caso de que esta situación ocurra en un canal público, se omitirá el paso de reducción de usuarios.
 
-[!button variant="primary" text="Más información"]()
+[!button variant="primary" text="Más información"](./p/descontrol_en_el_canal.md)
 ==- Divulgación de información personal
 La divulgación de información personal de otras personas puede ser algo completamente inofensivo o incluso un ataque directo contra la persona afectada. El moderador deberá analizar la situación y determinar si la información divulgada compromete la seguridad de algún usuario. Si lo hace, se deben tomar las medidas necesarias para detener esta divulgación.
 
-[!button variant="primary" text="Más información"]()
+[!button variant="primary" text="Más información"](./p/divulgación_de_información_personal.md)
 ==-
 
 ### E
@@ -75,11 +75,11 @@ La divulgación de información personal de otras personas puede ser algo comple
 
 Cuando un usuario bloquea el acceso de alguien a su canal de voz, se denomina "reject". El usuario afectado puede evitarlo al salir del servidor y volver a entrar. En estos casos, al eludir este "reject", después de una advertencia inicial, si continúa, aplicaremos el correspondiente "temp-ban".
 
-[!button variant="primary" text="Más información"]()
+[!button variant="primary" text="Más información"](./p/evasión_de_reject.md)
 ==- Evasión de sanción
 Cuando un usuario utiliza múltiples cuentas para eludir una sanción o vuelve a ingresar al servidor para quitarse un mute, está desafiando la autoridad de los moderadores y será castigado de manera significativa con la prohibición permanente de volver a ingresar al servidor.
 
-[!button variant="primary" text="Más información"]()
+[!button variant="primary" text="Más información"](./p/evasión_de_sanción.md)
 ==-
 
 ### F

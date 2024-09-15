@@ -3,10 +3,8 @@ label: Divulgación de información personal
 authors:
   - name: gacarbla
     link: https://discord.com/users/643575943289634836
-    avatar: ../../../profiles/gacarbla.jpg
-visibility: hidden
+    avatar: /assets/pfps/gacarbla.jpg
 ---
-[!button size="xs" variant="warning" text="No revisado" icon="alert" corners="pill"](../../../info/contenido_sin_revisar/contenido_sin_revisar.md)
 
 # Divulgación de información personal
 Este caso se refiere a la acción de un usuario que comparte información personal de otros usuarios sin su consentimiento, lo que puede violar su privacidad y seguridad.
@@ -18,7 +16,7 @@ Al recibir informes de divulgación de información personal, el moderador debe 
 
 **Si la información fuere sensible:** Si la información compartida es sensible y privada, el moderador debe aplicar una sanción de tipo ban de manera inmediata. Esto se hace para proteger la privacidad y seguridad de los usuarios afectados.
 
-## Formato de sanción:
+## Formato de sanción
 +++ No sensible
 ```
 u!ban <id> **Incumplimiento de las ToS**
@@ -39,4 +37,4 @@ Divulgación de información de carácter personal sensible sin consentimiento p
 <br><br><br>
 ** **
 **HISTORIAL DE CAMBIOS**<br><br> 
-`2023-08-28` [!button size="xs" variant="primary" text="Redactado" icon="pencil"]
+`2024-09-15` [!button size="xs" variant="primary" text="Redactado" icon="pencil"]
