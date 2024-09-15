@@ -20,28 +20,28 @@ Cuando estás emitiendo una advertencia, es altamente recomendable que silencies
 
 Si lo deseas, puedes esperar un tiempo y verificar si vuelven a conectarse para quitarles el mute, pero esto no es obligatorio en absoluto. En caso de que deseen que se les retire el mute, deberán abrir un ticket solicitando su levantamiento.
 
-[!button variant="primary" text="Más información"]()
+[!button variant="primary" text="Más información"](./p/abandono_del_canal_con_mute.md)
 ==- Acoso a usuarios
 El acoso a los usuarios del servidor es un comportamiento que como moderadores y como personas, no podemos permitir. Éstas actitudes deben ser fuertemente penalizadas por el equipo y se hará uso de todas las herramientas posibles para identificarlo. Entre estas medidas, podemos optar por revisar los registros de acceso y salida de los canales de voz para poder identificar en qué momentos dos usuarios han coincidido en un canal de voz y quién de ellos es el primero en acceder al canal en cada caso.
 
-[!button variant="primary" text="Más información"]()
+[!button variant="primary" text="Más información"](./p/acoso_a_usuarios.md)
 ==- Amenaza a un usuario
 Cuando una persona amenaza a otra, no solo está infringiendo varias de nuestras normas y las de Discord, sino que también está cometiendo un delito. Es de vital importancia abordar este comportamiento desde el principio para garantizar el bienestar y la seguridad de nuestros usuarios.
 
-[!button variant="primary" text="Más información"]()
+[!button variant="primary" text="Más información"](./p/amenaza_a_un_usuario.md)
 ==- Audios molestos
 En ocasiones, algunos usuarios reproducen audios que resultan molestos. Es crucial no confundir esto con ruidos molestos, ya que aplicaremos un criterio diferente, aunque la sanción y el procedimiento sean bastante similares.
 
 Consideramos que los audios son molestos cuando interrumpen la conversación, están saturados de sonido o desvían la temática original del canal. En estos casos, intentaremos detener su reproducción mediante diálogo o advertencias. Es común encontrarnos con situaciones en las que los usuarios evitan a los moderadores para continuar causando molestias al resto de los usuarios.
 
-[!button variant="primary" text="Más información"]()
+[!button variant="primary" text="Más información"](./p/audios_molestos.md)
 ==-
 
 ### B
 ==- Bug ensordecido
 Algunos usuarios están utilizando el bug de FakeDeafen, que hace que aparezca que están ensordecidos aunque no lo estén. Esto no solo complica la labor de moderación, sino que también infringe los Términos de Servicio al aprovechar un error de Discord en su beneficio personal. Deberemos pedirles que dejen de realizar esta acción y, si no la detienen después de la primera advertencia, aplicaremos una sanción.
 
-[!button variant="primary" text="Más información"]()
+[!button variant="primary" text="Más información"](./p/bug_ensordecido.md)
 ==-
 
 ### C
@@ -125,10 +125,6 @@ Con el tiempo te darás de cuenta de los muchos usuarios que utilizan modulares 
 
 [!button variant="primary" text="Más información"]()
 ==-
-
-!!!danger Hasta aquí hemos llegado...
-A partir de este punto todos los artículos están incompletos o carentes de corrección.<br>Por favor, no sigas al pié de la letra los procedimientos expuestos a partir de este punto.
-!!!
 
 ### Q
 ==- Queja en público
