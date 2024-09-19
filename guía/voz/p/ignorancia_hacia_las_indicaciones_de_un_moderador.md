@@ -15,7 +15,27 @@ Si haces una recomendación a un usuario y éste la ignora, siéntete libre de a
 ## Advertencias
 En el caso de que adviertas a cierto usuario y éste no acate la advertencia, sigue con el procedimiento habitual. En la mayor parte de casos será una segunda advertencia, y luego de esta una sanción tipo de restrictiva.
 
+## Formato de sanción
+
+!!!info Duración de la restricción
+Al aplicar una restricción recuerda la cadena de duración.<br>
+La duración será de 12 horas, 24 horas, 72 horas, 1 semana o 2 semanas, en función del número de sanciones previas y la gravedad de los incidentes actuales.<br>
+Infórmate mejor en el siguiente artículo:
+[!ref Cómo privar de acceso](./privar_de_acceso.md)
+!!!
+
++++ Warn
+```
+u!warn <id> <razón>
+```
++++ Restricción
+```
+/restrict-voice user:<id> duration:<duration> reason:<razón>
+```
++++
+
 <br><br><br>
 ** **
 **HISTORIAL DE CAMBIOS**<br><br> 
+`2024-09-19` [!button size="xs" variant="secondary" text="Actualizado" icon="sync"]<br>
 `2024-09-15` [!button size="xs" variant="primary" text="Redactado" icon="pencil"]
