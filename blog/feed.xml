@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog</title>
+    <link>/blog/</link>
+    <description>Blog</description>
+    <copyright>© Copyright 2024. Todos los derechos reservados.</copyright>
+    <lastBuildDate>Thu, 19 Sep 2024 00:00:00 GMT</lastBuildDate>
+    <generator>https://retype.com</generator>
+    <atom:link rel="self" type="application/rss+xml" href="/blog/feed.xml" />
+    <item>
+      <title>v1.0.6</title>
+      <guid isPermaLink="true">/blog/1_0_6/</guid>
+      <description>La versión v1.0.6 ha sido publicada exitosamente.</description>
+      <pubDate>Thu, 19 Sep 2024 00:00:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
