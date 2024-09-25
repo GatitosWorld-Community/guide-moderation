@@ -12,22 +12,19 @@ Privar de acceso a un usuario significa retirarle de forma temporal o permanente
 
 Como norma general, se le privará de forma temporal las primeras 5 sanciones, siendo la 6ª la que priva de forma total el acceso.<br>Éstas son las duraciones recomendadas de cada restricción en función del número de sanciones previas:
 
-**0 sanciones** (Esta es la primera)
+**0 sanciones previas**
 :   12 horas
 
-**1 sanción** (Esta es la segunda)
+**1 sanción previa**
 :   24 horas
 
-
-**2 sanciones** (Esta es la tercera)
+**2 sanciones previas**
 :   72 horas
 
-
-**3 sanciones** (Esta es la cuarta)
+**3 sanciones previas**
 :   1 semana
 
-
-**4 sanciones** (Esta es la quinta)
+**4 sanciones previas**
 :   2 semanas
 
 !!!info De oca a oca y tiro porque me ha tocado las narices
