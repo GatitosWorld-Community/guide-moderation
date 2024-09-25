@@ -6,6 +6,35 @@ order: 800
 
 # Cómo moderar canales de voz
 
+!!!info Documento largo
+El tiempo de lectura aproximado no está disponible mientras la guía se mantiene bajo construcción.
+!!!
+
+<br>
+
+## Primeros pasos
+
+La tarea de un moderador de VC empieza <u>ANTES</u> de entrar al canal de voz.<br>Es importante observar con atención, identificar a los usuarios presentes y acceder al canal de la forma apropiada. Contamos con la ventaja de ver qué nos depara, aprovechémosla para hacer el mejor trabajo posible.
+
+### Preparación previa
+
+Antes de empezar a moderar cualquier canal de voz, inicia la prueba de audio de Discord, la grabadora de tu equipo o la herramienta que tengas a tu disposición para comprobar con qué calidad se te escucha según tu micrófono. Asegúrate de tener la aplicación de OBS preparada, y que si fuese necesario podrás lograr la grabación que necesaria; puedes aprovechar para comprobar que la calidad y formato de las pruebas son las correctas (Tratándose de VC se recomienda un número bajo de FPS, una calidad de video intermedia y una calidad de audio normal junto al formato mp4).
+
+Ya has comprobado que tus herramientas están preparadas, ahora asegúrate de que tu intenet lo soportará.<br>
+Es injusto, pero un moderador con mala o inestable conexión a internet no debería moderar canales de voz. Tu labor en el proceso será observar el canal y sus acontecimientos, y poder reaccionar ante ellos de la forma adecuada. En casos en los que la calidad de internet es deficiente, podrías tener dificultades para comunicarte con el resto de usuarios, causando una falsa sensación de seguridad en el canal, recayendo sobre tu persona la responsabilidad absoluta de lo que ocurra.<br>
+**Si tienes mala conexión a internet, modera canales de voz bajo tu propia responsabilidad.**
+
+### Análisis
+
+Antes de entrar al canal revisa la lista de usuarios conectados. Intenta identificar de forma veloz usuarios conflictivos, posibles multicuentas u otros usuarios infractores de las normas del servidor. En caso de ser probable la presencia de alguno de ellos, tendremos en cuenta la probable necesidad de acceder con una multicuenta al canal para poder ver el cambio de comportamiento.
+
+### Hablando de multicuentas...
+
+La preservación de la identidad de cada multicuenta es sumamente importante.<br>
+Siempre que puedas, utiliza todos tus recursos para que no sospechen de tu multicuenta y puedas seguir manteniéndola operativa. Ésto incluye "pasar por alto" pequeñas infracciones o actuar tardíamente si la situación lo permite. De esta forma, será más difícil encontrar un patrón de coincidencia entre tu multicuenta y tu cuenta principal.
+
+<br><br>
+
 ## Casos variados y cómo proceder en ellos
 ¿No sabes qué hacer en una situación? Se acabó ese problema.
 
@@ -46,7 +75,7 @@ Algunos usuarios están utilizando el bug de FakeDeafen, que hace que aparezca q
 
 ### C
 ==- Causar interrupciones constantes
-Algunos usuarios en los canales de voz están causando interrupciones constantes en las conversaciones de otros. Es necesario gestionar esta conducta. Comenzaremos solicitando a través de un diálogo que respeten los turnos de palabra. Sin embargo, si estas peticiones no tienen el efecto deseado, procederemos con las advertencias correspondientes (1 o 2), seguidas de una sanción en forma de mute.
+Algunos usuarios en los canales de voz están causando interrupciones constantes en las conversaciones de otros. Es necesario gestionar esta conducta. Comenzaremos solicitando a través de un diálogo que respeten los turnos de palabra. Sin embargo, si estas peticiones no tienen el efecto deseado, procederemos con las advertencias correspondientes (1 o 2), seguidas de una sanción en forma de restricción.
 
 [!button variant="primary" text="Más información"](./p/causar_interrupciones_constantes.md)
 ==- Comportamiento tóxico
@@ -77,7 +106,7 @@ Cuando un usuario bloquea el acceso de alguien a su canal de voz, se denomina "r
 
 [!button variant="primary" text="Más información"](./p/evasión_de_reject.md)
 ==- Evasión de sanción
-Cuando un usuario utiliza múltiples cuentas para eludir una sanción o vuelve a ingresar al servidor para quitarse un mute, está desafiando la autoridad de los moderadores y será castigado de manera significativa con la prohibición permanente de volver a ingresar al servidor.
+Cuando un usuario utiliza múltiples cuentas para eludir una sanción o vuelve a ingresar al servidor para quitarse una restricción, está desafiando la autoridad de los moderadores y será castigado de manera significativa con la prohibición permanente de volver a ingresar al servidor.
 
 [!button variant="primary" text="Más información"](./p/evasión_de_sanción.md)
 ==-
@@ -104,11 +133,11 @@ Es recurrente el humor negro en una comunidad digital, pero también muy importa
 ==- Ignorancia hacia las indicaciones de un moderador
 Algunos usuarios muestran plena ignorancia hacia las indicaciones de los moderadores, sea persistiendo en un comportamiento contrario al reglamento o simplemente no acatando las recomendaciones. Te exponemos todo lo que debes saber de cómo actuar en estos casos.
 
-[!button variant="dark" text="Más información"](./p/ignorancia_hacia_las_indicaciones_de_un_moderador.md)
+[!button variant="primary" text="Más información"](./p/ignorancia_hacia_las_indicaciones_de_un_moderador.md)
 ==- Inicio de eventos no autoriazdos
 Ocasionalmente algunos usuarios deciden organizar eventos en los canales de voz personalizada. Deben tener presente que estos eventos corren a su cargo y no al del equipo de moderadores o el servidor siquiera. Te enseñamos cómo actuar en estos casos.
 
-[!button variant="dark" text="Más información"](./p/inicio_de_eventos_no_autorizados.md)
+[!button variant="primary" text="Más información"](./p/inicio_de_eventos_no_autorizados.md)
 ==-
 
 ### M
@@ -116,14 +145,14 @@ Ocasionalmente algunos usuarios deciden organizar eventos en los canales de voz 
 Algunos usuarios no conocen o no cumplen las [ToS de Discord](https://discord.com/terms) y acceden al servidor pese a no cumplir con la edad mínima requerida. Te mostramos cómo identificarlos y cómo proceder en estos casos.
 
 [!button variant="primary" text="Más información"](./p/menor_de_13_años.md)
-==- Modificación ilegal de la APP de escritorio
-Existen complementos como BetterDiscord que modifican el aspecto y/o funcionalidades de la aplicación de escritorio de Discord. ¿Debemos hacer algo en estos casos? ¿El qué?
+==- Modificación ilegal
+Existen complementos como BetterDiscord que modifican el aspecto y/o funcionalidades de la aplicación de escritorio de Discord. ¿Debemos hacer algo en estos casos?
 
-[!button variant="dark" text="Más información"]()
+[!button variant="primary" text="Más información"](./p/modificación_ilegal_de_la_app_de_escritorio.md)
 ==- Moduladores de voz
 Con el tiempo te darás de cuenta de los muchos usuarios que utilizan modulares de voz en los canales públicos, y algunos de ellos lo harán por las bromas o por molestar incluso. Aquí tienes una pequeña explicación de cuándo proceder y cómo.
 
-[!button variant="primary" text="Más información"]()
+[!button variant="primary" text="Más información"](./p/moduladores_de_voz.md)
 ==-
 
 ### Q
@@ -147,16 +176,16 @@ Con el tiempo te darás de cuenta de los muchos usuarios que utilizan modulares 
 
 [!button variant="dark" text="Más información"]()
 ==- Ruidos molestos
-*Seguimos trabajando en esto...*
+Algunos usuarios podrían intentar utilizar audios que resultan altamente molstos para otros usuarios, sea porque entorpecen la conversación o porque causan auténtico dolor de cabeza. En estos hipotéticos casos lo más adecuado será proceder con las correspondientes advertencias, continuadas de la sanción de carácter restrictivo.
 
-[!button variant="primary" text="Más información"]()
+[!button variant="primary" text="Más información"](./p/ruidos_molestos.md)
 ==-
 
 ### S
 ==- Saturación del micrófono
-*Seguimos trabajando en esto...*
+La saturación de micrófono es un tipo de ruido molesto, utilizar de forma accidental o malintencionada tu micrófono para causar ruidos altamente desagradables en el canal. Debemos aplicar el mismo procedimiento.
 
-[!button variant="primary" text="Más información"]()
+[!button variant="primary" text="Más información"](./p/saturación_del_micrófono.md)
 ==- Spam directo
 *Seguimos trabajando en esto...*
 
