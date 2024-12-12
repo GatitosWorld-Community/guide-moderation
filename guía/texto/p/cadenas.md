@@ -26,5 +26,5 @@ En este caso, los usuarios han participado en una cadena de mensajes compuesta p
 ==-
 
 
-## No confundir con Flood.
+## No confundir con Flood
 Es muy probable que te confundas con ambos conceptos, por lo que es importante aprender a diferenciarlos. Te recomiendo que leas el apartado sobre [¿Qué es Flood?](https://mod.gatitosworld.com/gu%C3%ADa/texto/p/flood/)
