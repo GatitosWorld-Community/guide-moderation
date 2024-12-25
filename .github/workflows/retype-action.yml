@@ -17,6 +17,15 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
+      - name: Install .NET Core 7.0.0
+        run: |
+          wget https://dotnet.microsoft.com/download/dotnet/scripts/v1/dotnet-install.sh
+          chmod +x dotnet-install.sh
+          ./dotnet-install.sh --version 7.0.0
+
+      - name: Add .NET to PATH
+        run: echo "##[add-path]$HOME/.dotnet" >> $GITHUB_ENV
+
       - uses: retypeapp/action-build@latest
         with:
           license: ${{ secrets.RETYPE_SECRET }}
