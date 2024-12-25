@@ -17,11 +17,14 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - name: Install .NET Core 7.0.0
-        run: |
-          wget https://dotnet.microsoft.com/download/dotnet/scripts/v1/dotnet-install.sh
-          chmod +x dotnet-install.sh
-          ./dotnet-install.sh --version 7.0.0
+      - name: Setup .NET Core
+        uses: actions/setup-dotnet@v1
+        with:
+          dotnet-version: |
+            3.1.x
+            5.0.x
+            6.0.x
+            7.0.x
 
       - name: Add .NET to PATH
         run: echo "##[add-path]$HOME/.dotnet" >> $GITHUB_ENV
