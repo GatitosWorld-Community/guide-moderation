@@ -15,12 +15,15 @@ Todo lo que un moderador puede necesitar para atender correctamente un ticket.
 <br>
 
 ### Procedimiento protocolario
-1. Reclama el ticket.
-2. Saluda al usuario y preséntate.
-3. Intenta averiguar la razón por la que el ticket es abierto.
+1. Lee las respuestas que el usuario ha dado en el formulario de apertura del ticket.
+2. Analiza si tu rango y posición son aptos para atender esta situación.
+3. Si tu rango es apto, o el ticket lleva más de 5 minutos sin atenderse, reclámalo.
+4. Brinda dentro de tus posibilidades y habilidades el soporte al usuario.
 
-!!!info
-Si la información requerida no es brindada por el usuario de correcta manera, se cerrará el ticket y procederá a sancionar correctamente al usuario.
+!!!info Si necesitas atención de un superior <u>analiza</u>:
+Si se trata de algo puntual como dar o quitar un rol, pide ayuda en el chat de staff.<br>
+Si se trata de un asunto mayor, como resolución de un conflicto o aclaración de algún procedimiento, cede la atención del ticket.
+
 !!!
 
 <br><br><br>
