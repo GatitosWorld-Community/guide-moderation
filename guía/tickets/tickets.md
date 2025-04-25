@@ -6,6 +6,9 @@ author:
 -   name: Tørtilla
     link: https://discord.com/users/832692087974658079
     avatar: /assets/pfps/tortilla.jpg
+-   name: Alexy
+    link: https://discord.com/users/345598230186295297
+    avatar: /assets/pfps/alexy.jpg
 -   name: Beli
     link: https://discord.com/users/753448776265629759
     avatar: /assets/pfps/beli.jpg
