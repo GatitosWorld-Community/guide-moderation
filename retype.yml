@@ -3,7 +3,7 @@ output: .retype
 url: 
 branding:
   title: Mod Guide
-  label: v1.0.62
+  label: v1.0.63
   logo: 
 footer:
   copyright: "&copy; Copyright {{ year }}. Todos los derechos reservados."

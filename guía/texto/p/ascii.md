@@ -27,12 +27,12 @@ Dentro del servidor, este contenido está prohibido pues su único fin es inunda
 ==- Grande
 
 En este caso, el ASCII-ART es grande, usando 19 líneas de texto, inundando completamente el canal, este se debe de advertir.
-![](/assets/examples/ascii_ex_1.png)
+![](/assets/examples/ascii/ascii_ex_1.png)
 
 ==- Pequeño
 
 En este caso, el ASCII-ART es demasiado pequeño, usando apenas 8 líneas de texto, pero este **NO** pierde la válidez de ser un ASCII-ART, por lo tanto, se advierte.
 
-![](/assets/examples/ascii_ex_2.png)
+![](/assets/examples/ascii/ascii_ex_2.png)
 
 ==-
