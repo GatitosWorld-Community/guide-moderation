@@ -17,12 +17,12 @@ Dependiendo de la gravedad de esto se procede de diferentes formas, por lo gener
 ==- Ejemplo Advertible
 En este caso se puede de visualizar como los usuarios persisten una serie de mensajes de forma prolongada, por lo que se debe de dar la advertencia verbal.
 
-![](/assets/examples/cad_ex_1.png)
+![](/assets/examples/cadenas/cad_ex_1.png)
 
 ==- Ejemplo No Advertible
 En este caso, los usuarios han participado en una cadena de mensajes compuesta por dos mensajes consecutivos y luego se han detenido. Esto no interrumpió significativamente la dinámica del chat ni desvió el rumbo de la conversación.
 
-![](/assets/examples/cad_ex_2.png)
+![](/assets/examples/cadenas/cad_ex_2.png)
 ==-
 
 
