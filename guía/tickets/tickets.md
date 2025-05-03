@@ -2,6 +2,8 @@
 label: Tickets
 icon: mail
 order: 999
+date: 2025-04-18
+categoy: [Tickets]
 author:
 -   name: Tørtilla
     link: https://discord.com/users/832692087974658079
@@ -24,6 +26,10 @@ Un ticket es una herramienta dentro de nuestro servidor con la finalidad de cone
 Estos tickets son canales temporales  del servidor, son privados y seguros solo el equipo de moderación, administración y el usuario podrán ver el ticket, ningún usuario que no esté invitado podrá acceder a este ticket o a su información a menos que se le convoque.
 
 ## Reglas de Tickets para Moderadores
+
+!!!DANGER
+Estas son las reglas más básicas de los tickets. Se recomienda leer completamente las [Reglas para Moderadores](https://mod.gatitosworld.com/reglas/).
+!!!
 
 ==- Forma de Atenderlos
 
@@ -117,7 +123,7 @@ $new <ID del usuario> <Razón>
 ```
 
 !!!DARK
-Por favor, recuerda eliminar los "<>" del comando, este es un ejemplo: $new 832692087974658079 Comportamiento Inapropiado.
+Recuerda eliminar los "<>" del comando, este es un ejemplo: $new 832692087974658079 Comportamiento Inapropiado.
 !!!
 
 ==-
@@ -132,7 +138,7 @@ Es importante aclarar que <u>cualquier</u> moderador está capacitado para atend
 
 **¡Un ticket salvaje ha aparecido!** Este es un ejemplo de cómo se ve un ticket recién abierto:
 
-![](/assets/examples/tickets/ej_1.png)
+![](/assets/examples/tickets/tic_ex_1.png)
 
 Las 3 primeras letras del ticket significan el motivo del ticket:
 
@@ -146,7 +152,7 @@ Para poder atender un ticket deberás de pulsar el botón "**Atender**", esto bl
 
 Una vez reclamado el ticket, aparecerá un mensaje avisando quién ha sido el moderador afortunado para atender el ticket (El primero en presionar el botón se queda el ticket), también el nombre del canal será modificado al nombre de usuario del moderador. 
 
-![](/assets/examples/tickets/ej_2.png)
+![](/assets/examples/tickets/tic_ex_2.png)
 
 El moderador a cargo debe de dar un saludo y preguntar por la situación. Cada moderador puede elegir como saludar pero siempre se deben de seguir las [reglas de tickets para moderadores](https://mod.gatitosworld.com/guía/tickets/#reglas-de-tickets-para-moderadores).
 
@@ -157,7 +163,7 @@ En este caso en específico el motivo no se menciona en la descripción del tick
 
 La respuesta del moderador a cargo debe de responder la situación del usuario o solicitar más información para poder ayudar al usuario, en el caso de que la pregunta sea clara el moderador deberá de proporcionar información precisa y verídica.
 
-![](/assets/examples/tickets/ej_3.png)
+![](/assets/examples/tickets/tic_ex_3.png)
 
 Si es posible se deberán de incluir vínculos directos a los canales del servidor o mensajes dentro del servidor para que el usuario pueda revisar la información por su cuenta y no tenga dudas respecto a la veracidad de la información.
 
@@ -165,7 +171,7 @@ Si es posible se deberán de incluir vínculos directos a los canales del servid
 
 Una vez que el usuario confirme que su pregunta ha sido respondida, es hora de la penúltima fase del ticket, en la cuál el moderador debe de preguntar si hay algo más en lo que le pueda ayudar.
 
-![](/assets/examples/tickets/ej_4.png)
+![](/assets/examples/tickets/tic_ex_4.png)
 
 Cabe la posibilidad de que el usuario tenga una o más preguntas y se aprovechará ese mismo ticket para resolver sus dudas, no queremos un ticket cada 5 minutos del mismo usuario para preguntas diferentes. 
 
@@ -185,7 +191,7 @@ $close
 
 Esto cerrará directamente el ticket sin preguntar por una confirmación, es más eficiente y rápido.
 
-![Ejemplo de un ticket cerrado](/assets/examples/tickets/ej_5.png)
+![Ejemplo de un ticket cerrado](/assets/examples/tickets/tic_ex_5.png)
 
 Una vez cerrado el ticket, se recomienda su eliminación para liberar espacio en el apartado MTickets, si el ticket se debe de mantener cerrado pero sin eliminar por un cierto tiempo, es recomendable que renombres el ticket a "no-eliminar", el moderador que atendió el ticket tiene permisos de modificar el canal.
 
@@ -196,4 +202,4 @@ Una vez que se ha pulsado el botón "Eliminar" y el bot ya ha confirmado su elim
 
 ** **
 **HISTORIAL DE CAMBIOS**<br><br>
-`18-04-2025 (Versión 1)` [!button size="xs" variant="primary" text="Redactado" icon="pencil"]
+- `18-04-2025 (Versión 1)` [!button size="xs" variant="primary" text="Redactado" icon="pencil"]

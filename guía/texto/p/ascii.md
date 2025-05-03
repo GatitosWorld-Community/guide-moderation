@@ -10,11 +10,13 @@ author:
     avatar: /assets/pfps/tortilla.jpg
 ---
 
+# ASCII-ART
+
 ## ¿Qué es el ASCII-ART?
 
 Es una forma de arte digital que utiliza caracteres del conjunto de caracteres ASCII para representar imágenes o diseños visuales. En lugar de utilizar píxeles o gráficos complejos, se emplean letras, números y símbolos para crear representaciones visuales, como si fueran "dibujos" creados con texto.
 
-Dentro del servidor, este contenido está prohibido pues su único fin es inundar los canales de texto con caracteres sin sentido.
+Dentro del servidor, este contenido está prohibido pues su único fin es inundar los canales de texto con caracteres sin sentido. No importa el canal, si es General, Multimedia o Memes, este contenido no está permitido.
 
 ## Procedimiento
 
@@ -22,6 +24,10 @@ Dentro del servidor, este contenido está prohibido pues su único fin es inunda
 - Se advierte al usuario.
 - Si sigue con el comportamiento, se le aplica un sanción de tipo *warn*.
 - Si continua se le aplica un *mute* de 3 horas.
+
+!!!WARNING
+En caso de ASCII-ARTs inapropiados, cómo NSFW o PNSFW, deberán ser sancionados de una manera más severa. Ante la duda, contacten con algún mentor o superior.
+!!!
 
 ## Ejemplos
 ==- Grande
